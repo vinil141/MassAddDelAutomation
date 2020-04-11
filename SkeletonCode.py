@@ -1,7 +1,7 @@
 ##!/usr/bin/python
 """
 input_data_checker()
-Input : Requester's Attachement
+Input : Requester's AttacheKent
 if a file appears at source code location:
    if it is a zip file
        unzip it
