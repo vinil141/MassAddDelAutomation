@@ -1,0 +1,17 @@
+"""
+Input - Source file name, destination, hostname , id, pwd from a file
+Processing :
+Read input file from a location.
+Read destination location from a file.
+Read connection details from connection file.
+Use FTP Library along with these information and send input file.
+Output - FTP CTN list to remote server for CSM Job to process.
+FTP File tasks:
+hostname : blp13626005
+Server -->exprdbt1
+Username- pc089472
+password-: Password@207
+sudo -iu xfrmadd
+Password@207
+/prd1/exbvar/o2o/ftp/xfrmadd
+"""
